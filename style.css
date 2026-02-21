@@ -7,7 +7,9 @@
 
 body {
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); /* 漸層背景 */
-    font-family: 'Segoe UI', system-ui, sans-serif;
+    font-family: "LXGW WenKai TC", cursive;
+    font-weight: 400;
+    font-style: normal;
     display: flex;
     justify-content: center;
     align-items: center;
